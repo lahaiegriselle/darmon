@@ -46,7 +46,7 @@
       "popupMessage": "Bonjour!\n\nTapez un message ici. Il ouvrira directement l'application \nsur votre téléphone!\n\nImmobiliere Darmon ",
       "showPopup": true,
       "showOnIE": true,
-      "autoOpenTimeout": "5",
+      "autoOpenTimeout": "0",
       "headerColor": "#39847a",
       "headerTitle": "Retrouvez nous sur WhatsApp!",
       "placeholder": "Type here",
@@ -60,7 +60,7 @@
       "themeColor": "#6592e6"
     },
     "favicon": false,
-    "mbrsiteDomain": "0sv0iveksb",
+    "mbrsiteDomain": "mxttske9hi",
     "imageResize": false,
     "cssOptimize": false,
     "lazyLoad": false,
