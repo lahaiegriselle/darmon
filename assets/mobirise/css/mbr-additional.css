@@ -997,7 +997,7 @@ a {
     align-items: center;
   }
   .cid-slYwMwJqd6 .navbar:not(.navbar-short) .navbar-collapse {
-    max-height: calc(100vh - 4rem - 4.5rem);
+    max-height: calc(100vh - 8rem);
   }
   .cid-slYwMwJqd6 .navbar.navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
     -webkit-align-self: initial;
@@ -1447,7 +1447,7 @@ a {
   color: initial;
 }
 .cid-slYGlzCaoy {
-  padding-top: 5rem;
+  padding-top: 10rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
