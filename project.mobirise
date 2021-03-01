@@ -27,11 +27,11 @@
     },
     "versionFirst": "3.10.2",
     "uniqCompNum": 26,
-    "versionPublish": "5.2.2",
+    "versionPublish": "5.2.8",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/immochic-skyline-128x41.png",
+    "favicon": "@PROJECT_PATH@/assets/images/immochic-skyline-v3-128x36.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -47,12 +47,6 @@
       "opacityOverlay": "80",
       "text": "Nous utilisons des cookies pour vous offrir la meilleure expérience.",
       "textButton": "OK"
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "pwa-switcher": true,
     "witsec-white-label": false,
@@ -74,9 +68,13 @@
       "enabled": true
     },
     "PWA": {
-      "enabled": false
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/immochic-512x512_1.png",
+      "themeColor": "#c0a375"
     },
-    "mbrsiteDomain": "ogtxyztvi5"
+    "mbrsiteDomain": "o1psh7cxmz",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -714,7 +712,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright 2012- 2021&nbsp; (c) IMMOCHIC&nbsp;<br>DESIGN MADEBYGIDEON.",
+          "text": "Copyright 2012- 2021&nbsp; (c) IMMOCHIC&nbsp;<br>DESIGN <a href=\"http://madebygideon.tk\" class=\"text-primary\" target=\"_blank\">MADEBYGIDEON.</a>",
           "_tags": [
             "Theme"
           ],
